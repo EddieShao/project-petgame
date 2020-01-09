@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">PetGame</string>
+    <string name="back">Back</string>
+    <string name="open_shop">Shop</string>
+    <string name="play_training_game" translatable="false">Train</string>
+    <string name="play_memory_tile_game">Play</string>
+    <string name="memory_game_trials" translatable="false">Remaining Fail Trials:</string>
+    <string name="memory_start_header">Memory Tiles</string>
+    <string name="memory_start_intro">
+        In this game, you have a grid containing some money objects. The tiles will be covered
+        a few seconds after game starts. Find as many money objects as possible. Good luck!
+    </string>
+    <string name="memory_start_special">
+        Interesting, you just found a …
+    </string>
+    <string name="memory_start_bad">
+        Oops, you just encountered …
+    </string>
+    <string name="memory_start_feedback">
+        Congratulations! You just received $%d. \nWould you like to continue?
+    </string>
+    <string name="memory_start_size">Grid Size: </string>
+    <string name="memory_start_mode">Game Mode: </string>
+    <string name="memory_start_exit">Exit</string>
+    <string name="memory_start_begin">Let\'s Start!</string>
+
+    <string name="age">" Days"</string>
+    <string name="buy_item">Buy</string>
+    <string name="open_settings">Settings</string>
+    <string name="wrong_password_content">Incorrect username or password</string>
+    <string name="empty_input_title">Invalid Input</string>
+    <string name="empty_input_content">Input cannot be empty or null.</string>
+    <string name="name_existed_title">Username existed</string>
+    <string name="name_existed_content">Sorry, your name has been taken.</string>
+    <string name="pet_died_title">Your pet has died.  :(</string>
+    <string name="hard_mode">Hard Mode</string>
+    <string name="volume">Mute Sounds</string>
+    <string name="hard_mode_description">In case you hate your pet for some reason</string>
+    <string name="wrong_password_title">Access Denied</string>
+    <string name="background_title">Background Color</string>
+    <string name="game_title">Pet Game</string>
+    <string name="delete_pet_title">You are about to abandon your pet</string>
+    <string name="delete_pet_message">Are you sure you want to leave your pet forever? QAQ</string>
+    <string name="delete_pet_confirm">abandon</string>
+    <string name="delete_pet_cancel">cancel</string>
+    <string name="DATAFILE">all_accounts</string>
+    <string name="delete_pet_fail_title">You cannot delete your dead pet.</string>
+    <string name="delete_pet_fail_message">"╮(￣▽￣)╭ "</string>
+
+
+
+
+    <string-array name="pet_types">
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>Hamster</item>
+    </string-array>
+
+    <string-array name="pet_types_unlocked">
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>Hamster</item>
+        <item>Dragon</item>
+    </string-array>
+
+    <string-array name="pet_colors">
+        <item>Brown</item>
+        <item>Black</item>
+        <item>White</item>
+    </string-array>
+    <string name="random_sort">Random Sorted</string>
+    <string name="health_sort">Sorted by Health</string>
+    <string name="age_sort">Sorted by Age</string>
+    <string name="success_login">Logged in Successfully</string>
+    <string name="nickname_greeting">Hi %s !</string>
+    <string name="welcome_new_pet">You just adopted %s !</string>
+    <string name="pet_display_age">Age: %d</string>
+    <string name="pet_display_health">Health: %d</string>
+    <string name="pet_display_startgame">Start Game</string>
+    <string name="pet_display_dead">DEAD</string>
+    <string name="tomb_quote">Rest In Peace</string>
+    <string name="unlock_easteregg_title">You have found all easter egg pieces!</string>
+    <string name="unlock_easteregg_message">You just unlocked a brand new hidden pet type, Check it out!</string>
+    <string name="login_fail_message">Login Failed. Try again.</string>
+    <string name="edit_account_succeed">Changes Saved</string>
+
+    <string
+        name="instruction"
+        >Tap to jump. \n Every type of pet also has a \nunique ability to discover</string>
+    <string name="first_pet_remind">Get your first pet!</string>
+
+</resources>
